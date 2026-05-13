@@ -1,5 +1,9 @@
 # Vehicle Proximity Analysis
 
+## Demo
+
+https://github.com/Avrhambi/vehicle-proximity-cpa/raw/master/clip_1_result_.mp4
+
 Detects the **Closest Point of Approach (CPA)** for each vehicle in a traffic video — the exact frame and timestamp where every tracked vehicle was nearest to the camera.
 
 ## How It Works
