@@ -1,0 +1,15 @@
+# Model weights — auto-downloaded by ultralytics on first run
+*.pt
+
+# Input / source videos
+test1.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db

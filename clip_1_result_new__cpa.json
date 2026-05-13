@@ -1,0 +1,1770 @@
+[
+  {
+    "track_id": 1,
+    "class": "vehicle",
+    "max_y": 1078.8634033203125,
+    "cpa_location": [
+      100.36,
+      1078.86
+    ],
+    "best_frame": 26,
+    "best_timestamp": 0.8667,
+    "best_bbox": [
+      0.0,
+      843.56,
+      200.72,
+      1078.86
+    ]
+  },
+  {
+    "track_id": 2,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      120.39,
+      1080.0
+    ],
+    "best_frame": 71,
+    "best_timestamp": 2.3667,
+    "best_bbox": [
+      0.0,
+      792.74,
+      240.79,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 3,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      356.62,
+      1080.0
+    ],
+    "best_frame": 50,
+    "best_timestamp": 1.6667,
+    "best_bbox": [
+      217.21,
+      741.95,
+      496.02,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 4,
+    "class": "vehicle",
+    "max_y": 203.2553253173828,
+    "cpa_location": [
+      460.19,
+      203.26
+    ],
+    "best_frame": 688,
+    "best_timestamp": 22.9333,
+    "best_bbox": [
+      426.84,
+      147.33,
+      493.54,
+      203.26
+    ]
+  },
+  {
+    "track_id": 5,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1015.0,
+      1080.0
+    ],
+    "best_frame": 101,
+    "best_timestamp": 3.3667,
+    "best_bbox": [
+      921.83,
+      759.37,
+      1108.18,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 6,
+    "class": "vehicle",
+    "max_y": 1077.3572998046875,
+    "cpa_location": [
+      948.81,
+      1077.36
+    ],
+    "best_frame": 155,
+    "best_timestamp": 5.1667,
+    "best_bbox": [
+      859.13,
+      738.89,
+      1038.49,
+      1077.36
+    ]
+  },
+  {
+    "track_id": 7,
+    "class": "vehicle",
+    "max_y": 789.0695190429688,
+    "cpa_location": [
+      884.21,
+      789.07
+    ],
+    "best_frame": 35,
+    "best_timestamp": 1.1667,
+    "best_bbox": [
+      835.19,
+      733.18,
+      933.23,
+      789.07
+    ]
+  },
+  {
+    "track_id": 8,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      146.5,
+      1080.0
+    ],
+    "best_frame": 109,
+    "best_timestamp": 3.6333,
+    "best_bbox": [
+      0.0,
+      779.38,
+      293.0,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 10,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      360.21,
+      1080.0
+    ],
+    "best_frame": 159,
+    "best_timestamp": 5.3,
+    "best_bbox": [
+      235.08,
+      787.63,
+      485.33,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 12,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1414.48,
+      1080.0
+    ],
+    "best_frame": 73,
+    "best_timestamp": 2.4333,
+    "best_bbox": [
+      1268.83,
+      759.62,
+      1560.14,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 17,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      336.01,
+      1080.0
+    ],
+    "best_frame": 206,
+    "best_timestamp": 6.8667,
+    "best_bbox": [
+      207.05,
+      800.72,
+      464.98,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 18,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      953.0,
+      1080.0
+    ],
+    "best_frame": 296,
+    "best_timestamp": 9.8667,
+    "best_bbox": [
+      852.22,
+      733.86,
+      1053.77,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 19,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      337.86,
+      1080.0
+    ],
+    "best_frame": 227,
+    "best_timestamp": 7.5667,
+    "best_bbox": [
+      208.09,
+      798.8,
+      467.63,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 20,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      372.88,
+      1080.0
+    ],
+    "best_frame": 259,
+    "best_timestamp": 8.6333,
+    "best_bbox": [
+      241.57,
+      777.51,
+      504.19,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 22,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      982.99,
+      1080.0
+    ],
+    "best_frame": 350,
+    "best_timestamp": 11.6667,
+    "best_bbox": [
+      893.36,
+      768.71,
+      1072.61,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 23,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      399.65,
+      1080.0
+    ],
+    "best_frame": 283,
+    "best_timestamp": 9.4333,
+    "best_bbox": [
+      275.93,
+      790.44,
+      523.37,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 24,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1038.38,
+      1080.0
+    ],
+    "best_frame": 399,
+    "best_timestamp": 13.3,
+    "best_bbox": [
+      942.58,
+      780.68,
+      1134.18,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 25,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      150.51,
+      1080.0
+    ],
+    "best_frame": 297,
+    "best_timestamp": 9.9,
+    "best_bbox": [
+      0.0,
+      699.75,
+      301.02,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 26,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      394.13,
+      1080.0
+    ],
+    "best_frame": 347,
+    "best_timestamp": 11.5667,
+    "best_bbox": [
+      291.88,
+      837.7,
+      496.37,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 27,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      132.58,
+      1080.0
+    ],
+    "best_frame": 351,
+    "best_timestamp": 11.7,
+    "best_bbox": [
+      0.0,
+      796.3,
+      265.15,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 29,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1065.98,
+      1080.0
+    ],
+    "best_frame": 452,
+    "best_timestamp": 15.0667,
+    "best_bbox": [
+      965.85,
+      794.55,
+      1166.11,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 30,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      377.03,
+      1080.0
+    ],
+    "best_frame": 421,
+    "best_timestamp": 14.0333,
+    "best_bbox": [
+      246.53,
+      760.14,
+      507.54,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 32,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      389.3,
+      1080.0
+    ],
+    "best_frame": 373,
+    "best_timestamp": 12.4333,
+    "best_bbox": [
+      247.88,
+      759.96,
+      530.72,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 33,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      139.85,
+      1080.0
+    ],
+    "best_frame": 388,
+    "best_timestamp": 12.9333,
+    "best_bbox": [
+      0.0,
+      775.62,
+      279.7,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 34,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      314.06,
+      1080.0
+    ],
+    "best_frame": 469,
+    "best_timestamp": 15.6333,
+    "best_bbox": [
+      179.79,
+      779.35,
+      448.34,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 40,
+    "class": "vehicle",
+    "max_y": 62.00428771972656,
+    "cpa_location": [
+      558.47,
+      62.0
+    ],
+    "best_frame": 363,
+    "best_timestamp": 12.1,
+    "best_bbox": [
+      539.78,
+      28.28,
+      577.17,
+      62.0
+    ]
+  },
+  {
+    "track_id": 41,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      138.84,
+      1080.0
+    ],
+    "best_frame": 546,
+    "best_timestamp": 18.2,
+    "best_bbox": [
+      0.0,
+      729.86,
+      277.69,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 42,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      172.68,
+      1080.0
+    ],
+    "best_frame": 607,
+    "best_timestamp": 20.2333,
+    "best_bbox": [
+      0.0,
+      590.41,
+      345.37,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 43,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1010.04,
+      1080.0
+    ],
+    "best_frame": 697,
+    "best_timestamp": 23.2333,
+    "best_bbox": [
+      927.84,
+      807.33,
+      1092.24,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 46,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      376.65,
+      1080.0
+    ],
+    "best_frame": 605,
+    "best_timestamp": 20.1667,
+    "best_bbox": [
+      259.72,
+      822.32,
+      493.58,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 47,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      964.56,
+      1080.0
+    ],
+    "best_frame": 761,
+    "best_timestamp": 25.3667,
+    "best_bbox": [
+      875.62,
+      786.2,
+      1053.49,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 48,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      361.48,
+      1080.0
+    ],
+    "best_frame": 674,
+    "best_timestamp": 22.4667,
+    "best_bbox": [
+      236.48,
+      777.82,
+      486.49,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 54,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      142.57,
+      1080.0
+    ],
+    "best_frame": 652,
+    "best_timestamp": 21.7333,
+    "best_bbox": [
+      6.26,
+      809.69,
+      278.89,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 57,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      307.35,
+      1080.0
+    ],
+    "best_frame": 749,
+    "best_timestamp": 24.9667,
+    "best_bbox": [
+      226.34,
+      906.56,
+      388.36,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 58,
+    "class": "vehicle",
+    "max_y": 232.8312225341797,
+    "cpa_location": [
+      566.46,
+      232.83
+    ],
+    "best_frame": 700,
+    "best_timestamp": 23.3333,
+    "best_bbox": [
+      539.35,
+      165.73,
+      593.57,
+      232.83
+    ]
+  },
+  {
+    "track_id": 59,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      978.16,
+      1080.0
+    ],
+    "best_frame": 1111,
+    "best_timestamp": 37.0333,
+    "best_bbox": [
+      887.41,
+      728.6,
+      1068.92,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 65,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      455.0,
+      1080.0
+    ],
+    "best_frame": 834,
+    "best_timestamp": 27.8,
+    "best_bbox": [
+      325.72,
+      753.19,
+      584.28,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 66,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      928.73,
+      1080.0
+    ],
+    "best_frame": 1669,
+    "best_timestamp": 55.6333,
+    "best_bbox": [
+      835.45,
+      765.76,
+      1022.02,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 67,
+    "class": "vehicle",
+    "max_y": 1079.4232177734375,
+    "cpa_location": [
+      275.24,
+      1079.42
+    ],
+    "best_frame": 803,
+    "best_timestamp": 26.7667,
+    "best_bbox": [
+      0.0,
+      293.42,
+      550.48,
+      1079.42
+    ]
+  },
+  {
+    "track_id": 70,
+    "class": "vehicle",
+    "max_y": 1078.9384765625,
+    "cpa_location": [
+      305.35,
+      1078.94
+    ],
+    "best_frame": 1133,
+    "best_timestamp": 37.7667,
+    "best_bbox": [
+      163.18,
+      877.08,
+      447.51,
+      1078.94
+    ]
+  },
+  {
+    "track_id": 75,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      958.42,
+      1080.0
+    ],
+    "best_frame": 1728,
+    "best_timestamp": 57.6,
+    "best_bbox": [
+      861.33,
+      709.76,
+      1055.5,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 77,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      380.89,
+      1080.0
+    ],
+    "best_frame": 1034,
+    "best_timestamp": 34.4667,
+    "best_bbox": [
+      320.51,
+      1024.61,
+      441.27,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 78,
+    "class": "vehicle",
+    "max_y": 33.05571746826172,
+    "cpa_location": [
+      611.29,
+      33.06
+    ],
+    "best_frame": 753,
+    "best_timestamp": 25.1,
+    "best_bbox": [
+      590.76,
+      2.01,
+      631.82,
+      33.06
+    ]
+  },
+  {
+    "track_id": 83,
+    "class": "vehicle",
+    "max_y": 169.92234802246094,
+    "cpa_location": [
+      563.56,
+      169.92
+    ],
+    "best_frame": 801,
+    "best_timestamp": 26.7,
+    "best_bbox": [
+      502.63,
+      61.63,
+      624.49,
+      169.92
+    ]
+  },
+  {
+    "track_id": 84,
+    "class": "vehicle",
+    "max_y": 312.9095458984375,
+    "cpa_location": [
+      658.25,
+      312.91
+    ],
+    "best_frame": 911,
+    "best_timestamp": 30.3667,
+    "best_bbox": [
+      626.98,
+      253.93,
+      689.52,
+      312.91
+    ]
+  },
+  {
+    "track_id": 85,
+    "class": "vehicle",
+    "max_y": 1079.431884765625,
+    "cpa_location": [
+      61.25,
+      1079.43
+    ],
+    "best_frame": 1037,
+    "best_timestamp": 34.5667,
+    "best_bbox": [
+      10.13,
+      985.02,
+      112.36,
+      1079.43
+    ]
+  },
+  {
+    "track_id": 90,
+    "class": "vehicle",
+    "max_y": 1078.8392333984375,
+    "cpa_location": [
+      133.86,
+      1078.84
+    ],
+    "best_frame": 1158,
+    "best_timestamp": 38.6,
+    "best_bbox": [
+      0.0,
+      742.98,
+      267.73,
+      1078.84
+    ]
+  },
+  {
+    "track_id": 92,
+    "class": "vehicle",
+    "max_y": 328.2479248046875,
+    "cpa_location": [
+      661.27,
+      328.25
+    ],
+    "best_frame": 1020,
+    "best_timestamp": 34.0,
+    "best_bbox": [
+      624.55,
+      252.24,
+      697.99,
+      328.25
+    ]
+  },
+  {
+    "track_id": 95,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1541.57,
+      1080.0
+    ],
+    "best_frame": 874,
+    "best_timestamp": 29.1333,
+    "best_bbox": [
+      1404.87,
+      777.54,
+      1678.27,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 102,
+    "class": "vehicle",
+    "max_y": 437.8072509765625,
+    "cpa_location": [
+      902.23,
+      437.81
+    ],
+    "best_frame": 1292,
+    "best_timestamp": 43.0667,
+    "best_bbox": [
+      837.72,
+      305.23,
+      966.74,
+      437.81
+    ]
+  },
+  {
+    "track_id": 103,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      477.68,
+      1080.0
+    ],
+    "best_frame": 1302,
+    "best_timestamp": 43.4,
+    "best_bbox": [
+      357.99,
+      766.91,
+      597.37,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 104,
+    "class": "vehicle",
+    "max_y": 1079.9676513671875,
+    "cpa_location": [
+      116.05,
+      1079.97
+    ],
+    "best_frame": 1238,
+    "best_timestamp": 41.2667,
+    "best_bbox": [
+      0.0,
+      796.48,
+      232.1,
+      1079.97
+    ]
+  },
+  {
+    "track_id": 105,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      407.83,
+      1080.0
+    ],
+    "best_frame": 1177,
+    "best_timestamp": 39.2333,
+    "best_bbox": [
+      269.8,
+      731.68,
+      545.86,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 106,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      68.16,
+      1080.0
+    ],
+    "best_frame": 1344,
+    "best_timestamp": 44.8,
+    "best_bbox": [
+      9.82,
+      972.67,
+      126.5,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 108,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1514.64,
+      1080.0
+    ],
+    "best_frame": 1013,
+    "best_timestamp": 33.7667,
+    "best_bbox": [
+      1395.85,
+      794.53,
+      1633.42,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 110,
+    "class": "vehicle",
+    "max_y": 202.83642578125,
+    "cpa_location": [
+      459.77,
+      202.84
+    ],
+    "best_frame": 1417,
+    "best_timestamp": 47.2333,
+    "best_bbox": [
+      425.96,
+      143.81,
+      493.57,
+      202.84
+    ]
+  },
+  {
+    "track_id": 111,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1519.74,
+      1080.0
+    ],
+    "best_frame": 1070,
+    "best_timestamp": 35.6667,
+    "best_bbox": [
+      1375.99,
+      768.26,
+      1663.49,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 113,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      499.99,
+      1080.0
+    ],
+    "best_frame": 1233,
+    "best_timestamp": 41.1,
+    "best_bbox": [
+      382.61,
+      765.93,
+      617.36,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 114,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      134.35,
+      1080.0
+    ],
+    "best_frame": 1383,
+    "best_timestamp": 46.1,
+    "best_bbox": [
+      0.0,
+      772.83,
+      268.69,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 115,
+    "class": "vehicle",
+    "max_y": 733.3802490234375,
+    "cpa_location": [
+      411.22,
+      733.38
+    ],
+    "best_frame": 1115,
+    "best_timestamp": 37.1667,
+    "best_bbox": [
+      376.38,
+      642.7,
+      446.07,
+      733.38
+    ]
+  },
+  {
+    "track_id": 117,
+    "class": "vehicle",
+    "max_y": 253.13975524902344,
+    "cpa_location": [
+      657.95,
+      253.14
+    ],
+    "best_frame": 1193,
+    "best_timestamp": 39.7667,
+    "best_bbox": [
+      606.63,
+      143.65,
+      709.27,
+      253.14
+    ]
+  },
+  {
+    "track_id": 120,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      56.02,
+      1080.0
+    ],
+    "best_frame": 1507,
+    "best_timestamp": 50.2333,
+    "best_bbox": [
+      11.2,
+      1002.8,
+      100.83,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 123,
+    "class": "vehicle",
+    "max_y": 311.7520446777344,
+    "cpa_location": [
+      841.1,
+      311.75
+    ],
+    "best_frame": 1504,
+    "best_timestamp": 50.1333,
+    "best_bbox": [
+      800.91,
+      236.15,
+      881.29,
+      311.75
+    ]
+  },
+  {
+    "track_id": 124,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1441.65,
+      1080.0
+    ],
+    "best_frame": 1225,
+    "best_timestamp": 40.8333,
+    "best_bbox": [
+      1305.07,
+      758.24,
+      1578.24,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 129,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      436.1,
+      1080.0
+    ],
+    "best_frame": 1393,
+    "best_timestamp": 46.4333,
+    "best_bbox": [
+      290.16,
+      633.97,
+      582.03,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 130,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      484.46,
+      1080.0
+    ],
+    "best_frame": 1496,
+    "best_timestamp": 49.8667,
+    "best_bbox": [
+      367.78,
+      781.67,
+      601.15,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 131,
+    "class": "vehicle",
+    "max_y": 61.3271598815918,
+    "cpa_location": [
+      680.55,
+      61.33
+    ],
+    "best_frame": 1260,
+    "best_timestamp": 42.0,
+    "best_bbox": [
+      667.0,
+      41.47,
+      694.1,
+      61.33
+    ]
+  },
+  {
+    "track_id": 134,
+    "class": "vehicle",
+    "max_y": 1079.3162841796875,
+    "cpa_location": [
+      79.85,
+      1079.32
+    ],
+    "best_frame": 1568,
+    "best_timestamp": 52.2667,
+    "best_bbox": [
+      0.0,
+      858.8,
+      159.71,
+      1079.32
+    ]
+  },
+  {
+    "track_id": 137,
+    "class": "vehicle",
+    "max_y": 355.2001647949219,
+    "cpa_location": [
+      860.26,
+      355.2
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      820.03,
+      270.92,
+      900.5,
+      355.2
+    ]
+  },
+  {
+    "track_id": 140,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      383.47,
+      1080.0
+    ],
+    "best_frame": 1573,
+    "best_timestamp": 52.4333,
+    "best_bbox": [
+      259.38,
+      769.52,
+      507.55,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 141,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      123.39,
+      1080.0
+    ],
+    "best_frame": 1652,
+    "best_timestamp": 55.0667,
+    "best_bbox": [
+      0.0,
+      802.58,
+      246.78,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 143,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1471.19,
+      1080.0
+    ],
+    "best_frame": 1449,
+    "best_timestamp": 48.3,
+    "best_bbox": [
+      1348.75,
+      874.26,
+      1593.62,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 148,
+    "class": "vehicle",
+    "max_y": 202.68240356445312,
+    "cpa_location": [
+      770.78,
+      202.68
+    ],
+    "best_frame": 1531,
+    "best_timestamp": 51.0333,
+    "best_bbox": [
+      742.15,
+      150.28,
+      799.41,
+      202.68
+    ]
+  },
+  {
+    "track_id": 149,
+    "class": "vehicle",
+    "max_y": 1078.69921875,
+    "cpa_location": [
+      41.71,
+      1078.7
+    ],
+    "best_frame": 1442,
+    "best_timestamp": 48.0667,
+    "best_bbox": [
+      6.03,
+      976.21,
+      77.39,
+      1078.7
+    ]
+  },
+  {
+    "track_id": 150,
+    "class": "vehicle",
+    "max_y": 143.2797393798828,
+    "cpa_location": [
+      571.6,
+      143.28
+    ],
+    "best_frame": 1445,
+    "best_timestamp": 48.1667,
+    "best_bbox": [
+      546.76,
+      94.15,
+      596.43,
+      143.28
+    ]
+  },
+  {
+    "track_id": 152,
+    "class": "vehicle",
+    "max_y": 1079.99951171875,
+    "cpa_location": [
+      61.84,
+      1080.0
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      3.03,
+      993.8,
+      120.65,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 154,
+    "class": "vehicle",
+    "max_y": 436.7611389160156,
+    "cpa_location": [
+      902.76,
+      436.76
+    ],
+    "best_frame": 1398,
+    "best_timestamp": 46.6,
+    "best_bbox": [
+      836.07,
+      305.32,
+      969.46,
+      436.76
+    ]
+  },
+  {
+    "track_id": 156,
+    "class": "vehicle",
+    "max_y": 184.50030517578125,
+    "cpa_location": [
+      652.66,
+      184.5
+    ],
+    "best_frame": 1426,
+    "best_timestamp": 47.5333,
+    "best_bbox": [
+      626.98,
+      143.67,
+      678.35,
+      184.5
+    ]
+  },
+  {
+    "track_id": 158,
+    "class": "vehicle",
+    "max_y": 119.79093933105469,
+    "cpa_location": [
+      710.03,
+      119.79
+    ],
+    "best_frame": 1442,
+    "best_timestamp": 48.0667,
+    "best_bbox": [
+      692.14,
+      85.79,
+      727.91,
+      119.79
+    ]
+  },
+  {
+    "track_id": 160,
+    "class": "vehicle",
+    "max_y": 683.04150390625,
+    "cpa_location": [
+      480.27,
+      683.04
+    ],
+    "best_frame": 1439,
+    "best_timestamp": 47.9667,
+    "best_bbox": [
+      451.2,
+      591.69,
+      509.34,
+      683.04
+    ]
+  },
+  {
+    "track_id": 163,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1519.73,
+      1080.0
+    ],
+    "best_frame": 1491,
+    "best_timestamp": 49.7,
+    "best_bbox": [
+      1401.13,
+      793.89,
+      1638.33,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 171,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      452.83,
+      1080.0
+    ],
+    "best_frame": 1630,
+    "best_timestamp": 54.3333,
+    "best_bbox": [
+      324.97,
+      727.85,
+      580.68,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 175,
+    "class": "vehicle",
+    "max_y": 313.69775390625,
+    "cpa_location": [
+      536.28,
+      313.7
+    ],
+    "best_frame": 1522,
+    "best_timestamp": 50.7333,
+    "best_bbox": [
+      499.9,
+      230.91,
+      572.66,
+      313.7
+    ]
+  },
+  {
+    "track_id": 177,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      439.92,
+      1080.0
+    ],
+    "best_frame": 1693,
+    "best_timestamp": 56.4333,
+    "best_bbox": [
+      315.79,
+      773.3,
+      564.04,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 179,
+    "class": "vehicle",
+    "max_y": 64.2812728881836,
+    "cpa_location": [
+      612.28,
+      64.28
+    ],
+    "best_frame": 1509,
+    "best_timestamp": 50.3,
+    "best_bbox": [
+      584.85,
+      1.26,
+      639.71,
+      64.28
+    ]
+  },
+  {
+    "track_id": 181,
+    "class": "vehicle",
+    "max_y": 159.59832763671875,
+    "cpa_location": [
+      738.11,
+      159.6
+    ],
+    "best_frame": 1513,
+    "best_timestamp": 50.4333,
+    "best_bbox": [
+      714.9,
+      112.54,
+      761.32,
+      159.6
+    ]
+  },
+  {
+    "track_id": 183,
+    "class": "vehicle",
+    "max_y": 862.671630859375,
+    "cpa_location": [
+      520.94,
+      862.67
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      422.77,
+      632.09,
+      619.11,
+      862.67
+    ]
+  },
+  {
+    "track_id": 184,
+    "class": "vehicle",
+    "max_y": 86.31043243408203,
+    "cpa_location": [
+      699.85,
+      86.31
+    ],
+    "best_frame": 1559,
+    "best_timestamp": 51.9667,
+    "best_bbox": [
+      681.66,
+      55.82,
+      718.04,
+      86.31
+    ]
+  },
+  {
+    "track_id": 186,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1485.03,
+      1080.0
+    ],
+    "best_frame": 1565,
+    "best_timestamp": 52.1667,
+    "best_bbox": [
+      1354.24,
+      778.31,
+      1615.83,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 187,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      451.25,
+      1080.0
+    ],
+    "best_frame": 1741,
+    "best_timestamp": 58.0333,
+    "best_bbox": [
+      326.29,
+      775.72,
+      576.21,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 188,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      442.03,
+      1080.0
+    ],
+    "best_frame": 1786,
+    "best_timestamp": 59.5333,
+    "best_bbox": [
+      321.75,
+      782.27,
+      562.3,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 189,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      1451.01,
+      1080.0
+    ],
+    "best_frame": 1620,
+    "best_timestamp": 54.0,
+    "best_bbox": [
+      1321.44,
+      771.07,
+      1580.57,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 190,
+    "class": "vehicle",
+    "max_y": 121.08676147460938,
+    "cpa_location": [
+      725.11,
+      121.09
+    ],
+    "best_frame": 1616,
+    "best_timestamp": 53.8667,
+    "best_bbox": [
+      700.73,
+      76.11,
+      749.48,
+      121.09
+    ]
+  },
+  {
+    "track_id": 191,
+    "class": "vehicle",
+    "max_y": 831.8128662109375,
+    "cpa_location": [
+      285.83,
+      831.81
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      175.04,
+      581.81,
+      396.63,
+      831.81
+    ]
+  },
+  {
+    "track_id": 195,
+    "class": "vehicle",
+    "max_y": 1080.0,
+    "cpa_location": [
+      934.24,
+      1080.0
+    ],
+    "best_frame": 1789,
+    "best_timestamp": 59.6333,
+    "best_bbox": [
+      794.88,
+      593.34,
+      1073.6,
+      1080.0
+    ]
+  },
+  {
+    "track_id": 196,
+    "class": "vehicle",
+    "max_y": 473.0104675292969,
+    "cpa_location": [
+      924.96,
+      473.01
+    ],
+    "best_frame": 1603,
+    "best_timestamp": 53.4333,
+    "best_bbox": [
+      873.64,
+      401.54,
+      976.29,
+      473.01
+    ]
+  },
+  {
+    "track_id": 197,
+    "class": "vehicle",
+    "max_y": 382.97119140625,
+    "cpa_location": [
+      646.54,
+      382.97
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      578.5,
+      153.26,
+      714.58,
+      382.97
+    ]
+  },
+  {
+    "track_id": 198,
+    "class": "vehicle",
+    "max_y": 656.447998046875,
+    "cpa_location": [
+      946.44,
+      656.45
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      879.55,
+      493.96,
+      1013.32,
+      656.45
+    ]
+  },
+  {
+    "track_id": 200,
+    "class": "vehicle",
+    "max_y": 528.6236572265625,
+    "cpa_location": [
+      433.64,
+      528.62
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      364.6,
+      396.27,
+      502.68,
+      528.62
+    ]
+  },
+  {
+    "track_id": 203,
+    "class": "vehicle",
+    "max_y": 250.255126953125,
+    "cpa_location": [
+      800.49,
+      250.26
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      765.52,
+      188.54,
+      835.47,
+      250.26
+    ]
+  },
+  {
+    "track_id": 204,
+    "class": "vehicle",
+    "max_y": 70.41407775878906,
+    "cpa_location": [
+      684.86,
+      70.41
+    ],
+    "best_frame": 1790,
+    "best_timestamp": 59.6667,
+    "best_bbox": [
+      664.05,
+      28.95,
+      705.67,
+      70.41
+    ]
+  },
+  {
+    "track_id": 206,
+    "class": "vehicle",
+    "max_y": 179.92050170898438,
+    "cpa_location": [
+      560.61,
+      179.92
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      523.44,
+      104.06,
+      597.78,
+      179.92
+    ]
+  },
+  {
+    "track_id": 208,
+    "class": "vehicle",
+    "max_y": 173.7303466796875,
+    "cpa_location": [
+      745.71,
+      173.73
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      723.39,
+      136.23,
+      768.03,
+      173.73
+    ]
+  },
+  {
+    "track_id": 209,
+    "class": "vehicle",
+    "max_y": 115.70323181152344,
+    "cpa_location": [
+      628.63,
+      115.7
+    ],
+    "best_frame": 1830,
+    "best_timestamp": 61.0,
+    "best_bbox": [
+      606.32,
+      75.79,
+      650.94,
+      115.7
+    ]
+  }
+]
