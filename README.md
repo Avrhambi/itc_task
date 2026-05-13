@@ -1,8 +1,3 @@
-
-
-https://github.com/Avrhambi/vehicle_detection/blob/master/clip_1_result_8s.mp4
-
-
 # Vehicle Detection
 
 ## Demo
