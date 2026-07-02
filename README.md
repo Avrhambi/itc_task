@@ -1,4 +1,4 @@
-# itc_task
+# Vehicle detection
 
 Detects the **Closest Point of Approach (CPA)** for each vehicle in a traffic video — the exact frame and timestamp where every tracked vehicle was nearest to the camera.
 
